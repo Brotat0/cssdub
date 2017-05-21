@@ -1,11 +1,11 @@
 #main_player {
-    background: rgba(0,0,0,0);
+    background: rgba(20,20,20,0.66);
     border-radius: 0rem 0rem 0rem 0rem;
     border-top: 1px solid #878c8e;
 }
 #main_player .player_header {
     background: inherit;
-    color: rgba(0,0,0,0);
+    color: rgba(20,20,20,0.66);
     opacity: 1;
     border-radius: 0rem 0rem 0rem 0rem;
     padding-top: 12px;
@@ -25,7 +25,7 @@
 }
 #main_player .player_header span:hover:not(.active) {
     background: rgba(0,0,0,0);
-    color: green;
+    color: #d10000;
 }
 #main_player .player_header span.active {
     background: rgba(0,0,0,0);
