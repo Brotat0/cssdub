@@ -1,13 +1,13 @@
 #main_player {
-    background: rgba(15,15,15,0.66);
-    border-radius: 0 0 0.5rem 0.5rem;
+    background: rgba(0,0,0,0);
+    border-radius: 0rem 0rem 0rem 0rem;
     border-top: 1px solid #878c8e;
 }
 #main_player .player_header {
     background: inherit;
     color: #ccc;
     opacity: 1;
-    border-radius: 0.5rem 0.5rem 0 0;
+    border-radius: 0rem 0rem 0rem 0rem;
     padding-top: 12px;
     top: -49px;
 }
@@ -44,5 +44,5 @@
     margin-top: -6rem;
 }
 #main-room .left_section {
-    margin-top: 0rem;
+    margin-top: 2rem;
 }
