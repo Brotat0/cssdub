@@ -5,7 +5,7 @@
 }
 #main_player .player_header {
     background: inherit;
-    color: #ccc;
+    color: rgba(0,0,0,0);
     opacity: 1;
     border-radius: 0rem 0rem 0rem 0rem;
     padding-top: 12px;
@@ -13,7 +13,7 @@
 }
 #main_player .player_header span {
     background: rgba(0,0,0,0);
-    color: #aaa;
+    color: rgba(0,0,0,0);
     opacity: 1;
     font-size: 15.2px;
     font-size: .95rem;
@@ -25,11 +25,11 @@
 }
 #main_player .player_header span:hover:not(.active) {
     background: rgba(0,0,0,0);
-    color: #fff;
+    color: rgba(0,0,0,0);
 }
 #main_player .player_header span.active {
     background: rgba(0,0,0,0);
-    color: #fff;
+    color: rgba(0,0,0,0);
     opacity: 1;
     border-bottom: 2px solid #fff;
 }
