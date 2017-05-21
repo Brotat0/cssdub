@@ -38,7 +38,7 @@
     left: -0.5px;
 }
 #main_player .player_header span.skip-el {
-    margin-right: 0;
+    margin-right: 12px;
 }
 #main_player .player_header #topbanner {
     margin-top: -6rem;
