@@ -1,7 +1,7 @@
 #main_player {
     background: rgba(20,20,20,0.66);
     border-radius: 0rem 0rem 0rem 0rem;
-    border-top: 1px solid #878c8e;
+    border: 1px solid #878c8e;
 }
 #main_player .player_header {
     background: inherit;
@@ -10,6 +10,7 @@
     border-radius: 0rem 0rem 0rem 0rem;
     padding-top: 12px;
     top: -49px;
+    border: 1px solid #878c8e;
 }
 #main_player .player_header span {
     background: rgba(0,0,0,0);
