@@ -13,7 +13,7 @@
 }
 #main_player .player_header span {
     background: rgba(0,0,0,0);
-    color: rgba(0,0,0,0);
+    color: rgba(15,15,15,0.66);
     opacity: 1;
     font-size: 15.2px;
     font-size: .95rem;
