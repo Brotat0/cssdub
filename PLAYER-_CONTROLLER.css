@@ -21,12 +21,12 @@
     padding: .5rem 5rem .5rem 1rem;
 }
 #player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong {
-    color: #4ae2ab;
+    color: #888;
     font-size: .95rem;
 }
 #player-controller .left ul li.infoContainer .infoContainerInner .currentTime,
 #player-controller .left ul li.infoContainer .infoContainerInner .currentSong {
-    color: #d20000;
+    color: #ddd;
 }
 #player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
     background: #5A93CC;
