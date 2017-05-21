@@ -243,7 +243,7 @@
 #main_player .player_header span.skip-el:hover {
     	margin-right: 15px;
 	color: red;
-	background-color: white;
+	background-color: white!important;
 	font-family: Helvetica;
 	border: 0.5px solid red;
 }
