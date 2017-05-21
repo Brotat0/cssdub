@@ -25,11 +25,11 @@
 }
 #main_player .player_header span:hover:not(.active) {
     background: rgba(0,0,0,0);
-    color: rgba(0,0,0,0);
+    color: green;
 }
 #main_player .player_header span.active {
     background: rgba(0,0,0,0);
-    color: rgba(0,0,0,0);
+    color: #d20000;
     opacity: 1;
     border-bottom: 2px solid #fff;
 }
@@ -38,7 +38,7 @@
     left: -0.5px;
 }
 #main_player .player_header span.skip-el {
-    margin-right: 12px;
+    margin-right: 15px;
 }
 #main_player .player_header #topbanner {
     margin-top: -6rem;
