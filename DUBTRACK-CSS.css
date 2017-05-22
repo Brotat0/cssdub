@@ -58,7 +58,7 @@
 
 
 #main_avatar_room #main-user-list-room #avatar-list li .username {
-	color: #f4b942 !important;
+	color: #f4b942;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
@@ -73,19 +73,7 @@
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li .user-role {
-	color: #f4b942 !important;
-	font-family: "Times New Roman", sans-serif!important;
-}
-
-
-
-#main_avatar_room #main-user-list-room #avatar-list li.resident-dj .username {
-	color: #e2440b !important;
-	font-family: "Times New Roman", sans-serif!important;
-}
-
-#chat .chat-container .chat-messages .chat-main li.resident-dj .username {
-	color:  #e2440b;
+	color: #f4b942;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
@@ -97,12 +85,12 @@
 }
 
 #chat .chat-container .chat-messages .chat-main li.dj .username {
-	color: #1687ff;
+	color: #1687ff!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.dj .user-role {
-        color:#1687ff;
+        color:#1687ff!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
@@ -119,12 +107,12 @@
 }
 
 #chat .chat-container .chat-messages .chat-main li.resident-dj .username {
-	color:  #e2440b;
+	color:  #e2440b!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.resident-dj .user-role {
-        color:#e2440b;
+        color:#e2440b!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
@@ -141,12 +129,12 @@
 }
 
 #chat .chat-container .chat-messages .chat-main li.vip .username {
-        color:#71f442;
+        color:#71f442!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.vip .user-role {
-        color:#71f442;
+        color:#71f442!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
@@ -163,12 +151,12 @@
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.mod .username {
-	color: #621fc6;
+	color: #621fc6!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.mod .user-role {
-	color:#621fc6;
+	color:#621fc6!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
@@ -180,87 +168,87 @@
 
 
 #main_avatar_room #main-user-list-room #avatar-list li.manager .username {
-	color: #df92e5;
+	color: #df92e5!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.manager .user-role {
-    color:#df92e5;
+    color:#df92e5!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.manager .username {
-	color: #df92e5; 
+	color: #df92e5!important; 
 	font-family: "Times New Roman", sans-serif!important
 }
 
 #main_avatar_room #chat-user-list-room #avatar-list li.manager .user-role{
-	color: #df92e5;
+	color: #df92e5!importantor: #ff162a!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 
 
 #chat .chat-container .chat-messages .chat-main li.co-owner .user-role {
-        color:#ff162a;
+        color: #ff162a!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.co-owner .username {
-	color: #ff162a;
+	color: #ff162a!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.co-owner .username {
-	color: #ff162a; 
+	color: #ff162a!important; 
 	font-family: "Times New Roman", sans-serif!important
 }
 
 #main_avatar_room #chat-user-list-room #avatar-list li.co-owner .user-role{
-	color: #ff162a;
+	color: #ff162a!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 
 
 #chat .chat-container .chat-messages .chat-main li.creator .user-role {
-        color:#d20000;
+        color:#d20000!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.creator .username {
-	color: #d20000;
+	color: #d20000!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.creator .username {
-	color: #d20000; 
+	color: #d20000!important; 
 	font-family: "Times New Roman", sans-serif!important
 }
 
 #main_avatar_room #chat-user-list-room #avatar-list li.creator .user-role{
-	color: #d20000;
+	color: #d20000!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 
 #main_avatar_room #main-user-list-room #avatar-list li.admin .username {
-	color: #e04af7 !important;
+	color: #e04af7!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.admin .username {
-	color: #e04af7;
+	color: #e04af7!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.admin .user-role {
-        color:#e04af7;
+        color:#e04af7!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.admin .user-role {
-	color: #e04af7 !important;
+	color: #e04af7!important;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
